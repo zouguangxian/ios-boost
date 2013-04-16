@@ -1,4 +1,4 @@
-*based on zouguangxian's starred repos*
+*automatically generated from repos starred by zouguangxian*
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
@@ -263,12 +263,6 @@
     stared:`459`, forks:`113`, issues:`22`, pushed:`2013-04-04 17:15:57`
 
     MailCore is a Mac/iOS framework for working with the e-mail protocols IMAP and SMTP
-
-* [SimFinger](https://github.com/atebits/SimFinger)
-
-    stared:`1,020`, forks:`111`, issues:`12`, pushed:`2012-11-14 08:22:13`
-
-    Screencasting for iPhone
 
 * [HTML5-Clear](https://github.com/yyx990803/HTML5-Clear)
 
