@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: iOS Boost
+tagline: 工欲善其事，必先利其器
 ---
 {% include JB/setup %}
 
